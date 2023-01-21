@@ -1,0 +1,18 @@
+{
+  "name": "is-srd",
+  "version": "1.0.0",
+  "description": "Is string srd ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Sharad5789/Package_NPM)"
+  },
+  "keywords": [
+    "srd"
+  ],
+  "author": "Sharad",
+  "license": "ISC"
+}
